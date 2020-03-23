@@ -1,5 +1,5 @@
 # CS636 Deep Learning
-
+NAME:CHEN BINGXU UIN:329006933
 Classify videos using  CNN(InceptionV3) 
 
 ## Requirements
