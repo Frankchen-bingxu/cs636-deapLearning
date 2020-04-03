@@ -12,10 +12,11 @@ keras
 ## The fold of the project
 I have train the model first, you don't need to train model anymore.In this project, open fold c3d, you can see three fold c3d,res3d,Kinetics400_res3d. And the test videos are in video_test fold,the json files(contain time/label) are shown in the fold.  
 ## How to run
-# 1 
+### 1 
 download the model from https://drive.google.com/file/d/1iOjSv_t16UjxJV532LGoL91_04x35veK/view?usp=sharing. Put it in the c3d/Kinetics400_res3d/
-# 2 
-open Kinetics400_res3d fold , run human_activity_reco.py to test the video in the video_test fold(maybe you need to change the path if you want to change the video to test or test the video you provid). Also you can generate your own json file.
+### 2 
+open Kinetics400_res3d fold.  
+run human_activity_reco.py to test the video in the video_test fold(maybe you need to change the path if you want to change the video to test or test the video you provid). Also you can generate your own json file.
 
 ## The video of how to run
 https://www.youtube.com/watch?v=PdbTcIodgag
