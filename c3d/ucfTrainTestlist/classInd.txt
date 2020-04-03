@@ -1,0 +1,6 @@
+1 biking
+2 diving
+3 shooting
+4 swing
+5 walking
+6 wash_hand
